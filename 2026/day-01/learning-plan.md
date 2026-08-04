@@ -1,7 +1,7 @@
 # 90-Day DevOps Learning Plan — Akash Adakne
 
 ## Current Level
-Working professional — Digital Platform Engineer (SRE background), ~4 years in production operations: CI/CD (Jenkins), Ansible automation, Akamai/UltraDNS, OS patching at scale, certificate management, Zabbix administration, Dynatrace, and release management for a large e-commerce platform. Strong on the operational/reliability side; now formalizing cloud and container skills to move fully into DevOps/Platform Engineering.
+Working professional — Digital Platform Engineer (SRE background), 3+ years in production operations: CI/CD (Jenkins), Ansible automation, Akamai/UltraDNS, OS patching at scale, certificate management, Zabbix administration, Dynatrace, and release management for a large e-commerce platform. Strong on the operational/reliability side; now formalizing cloud and container skills to move fully into DevOps/Platform Engineering.
 
 ## Why I'm Starting This
 I already run production infrastructure — I keep systems patched, monitored, and stable with zero downtime. What I lack is structured depth in cloud-native tooling (Kubernetes, Terraform, AWS at an architect level) and the certifications to prove it on paper. This 90 days is about closing that gap deliberately, not starting from zero.
